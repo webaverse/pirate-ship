@@ -1,5 +1,6 @@
 {
   "name": "ship",
+  "description": "pirate-ship",
   "start_url": "untitled.glb",
   "components": [
     {
